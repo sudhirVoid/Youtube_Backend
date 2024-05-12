@@ -1,0 +1,22 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "A youtube backend ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Express",
+    "Javascript",
+    "Node",
+    "Youtube",
+    "Backend"
+  ],
+  "author": "Sudhir bhandari",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
